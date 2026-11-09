@@ -2,7 +2,7 @@
 
  Enter how you travelled, ate and used power today. The page will prints the day .It is consist of four features :
  1. 10 everyday inputs
- 2. Live receipt with itemised kg C02 and a tota
+ 2. Live receipt with itemised kg C02 and a total
  3. Yearly projections and a "tree needed" comparsion
  4. Points out to your biggest source.
 
